@@ -1,5 +1,5 @@
 # twilio-trial
-<b> Creating an sms sending app using twilio is pretty straightforward. 
-
-The problem is with the verification 
+<b> Creating an sms sending app using twilio with a minimal frontend.
+  limited to just sending sms to a verified number.
+  in case you want to try your number please message me @ferrum.
 </b>
